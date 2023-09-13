@@ -1,6 +1,5 @@
 package com.potenday.kreamish.repository;
 
-import com.potenday.kreamish.entity.Category;
 import com.potenday.kreamish.entity.CategoryDetail;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
