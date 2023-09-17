@@ -1,6 +1,7 @@
 package com.potenday.kreamish.repository;
 
-import com.potenday.kreamish.entity.Item;
+import com.potenday.kreamish.item.entity.Item;
+import com.potenday.kreamish.item.repository.ItemRepository;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.junit.jupiter.api.Test;
