@@ -1,4 +1,4 @@
-package com.potenday.kreamish.config;
+package com.potenday.kreamish.common.config;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import jakarta.persistence.EntityManager;
