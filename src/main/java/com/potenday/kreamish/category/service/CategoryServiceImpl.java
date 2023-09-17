@@ -1,7 +1,7 @@
 package com.potenday.kreamish.category.service;
 
-import com.kreamish.kream.category.dto.CategoriesDto;
-import com.kreamish.kream.category.repository.CategoryRepository;
+import com.potenday.kreamish.category.dto.CategoriesDto;
+import com.potenday.kreamish.category.repository.CategoryRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

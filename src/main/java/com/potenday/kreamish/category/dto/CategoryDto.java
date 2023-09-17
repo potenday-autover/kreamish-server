@@ -1,6 +1,6 @@
 package com.potenday.kreamish.category.dto;
 
-import com.kreamish.kream.category.entity.Category;
+import com.potenday.kreamish.category.entity.Category;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
