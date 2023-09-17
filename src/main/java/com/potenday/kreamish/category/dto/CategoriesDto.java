@@ -2,9 +2,10 @@ package com.potenday.kreamish.category.dto;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.kreamish.kream.category.entity.Category;
 import java.util.List;
 import java.util.stream.Collectors;
+
+import com.potenday.kreamish.category.entity.Category;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
