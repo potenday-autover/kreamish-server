@@ -1,8 +1,8 @@
 package com.potenday.kreamish.member.controller;
 
 import com.potenday.kreamish.common.util.ApiUtils;
-import com.potenday.kreamish.member.dto.MemberRoleDetailResponseDto;
-import com.potenday.kreamish.member.dto.MemberRoleRegisterResponseDto;
+import com.potenday.kreamish.member.dto.*;
+import com.potenday.kreamish.member.service.MemberRoleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
